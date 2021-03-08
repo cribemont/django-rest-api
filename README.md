@@ -1,1 +1,1 @@
-# django-rest-api
+# Reset API with Django / Python
