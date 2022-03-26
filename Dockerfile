@@ -1,4 +1,4 @@
-FROM python:rc-alpine3.13
+FROM python:alpine3.13
 MAINTAINER C.Ribemont
 
 # Stabilise python on docker
